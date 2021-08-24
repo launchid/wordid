@@ -8,3 +8,5 @@ Kunjungi situs Word Indonesia di alamat [wordindonesia.id](https://wordindonesia
 
 - [Facebook](https://www.facebook.com/wordindonesia.id)
 - [Twitter](https://twitter.com/wordindonesia)
+
+Word Indonesia bagian dari [**Office Indonesia**](https://www.youtube.com/channel/UCxNKZsgtxVGnzcqjNd7ZFFQ).
