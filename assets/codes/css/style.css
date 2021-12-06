@@ -1,4 +1,4 @@
-@import url("https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.css");
+@import url("https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css");
 
 * {
 	box-sizing: border-box;
@@ -35,7 +35,7 @@ img {
 
 #copyright {
 	height: 15vh;
-	background-color: #1d1d1f;
+	background-color: #185abd;
 	color: #fff;
 	margin: auto;
 	text-align: center;
