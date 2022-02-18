@@ -57,25 +57,12 @@ img {
 .fab {
 	font-size: 1.5rem;
 	padding: 0.5rem;
-}
-
-.fa-globe,
-.fa-facebook,
-.fa-twitter
- {
 	color: #1d1d1f80;
 }
 
-.fa-globe:hover {
-	color: #4485e7;
-}
-
-.fa-facebook:hover {
-	color: #1778f2;
-}
-
-.fa-twitter:hover {
-	color: #1da1f2;
+.fas:hover,
+.fab:hover {
+	color: #1d1d1f;
 }
 
 @media (max-width: 768px) {
