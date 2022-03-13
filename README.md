@@ -9,4 +9,4 @@ Kunjungi situs Word Indonesia di alamat [wordindonesia.id](https://wordindonesia
 - [Facebook](https://www.facebook.com/wordindonesia.id)
 - [Twitter](https://twitter.com/wordindonesia)
 
-Word Indonesia bagian dari [**Launch Indonesia**](https://www.youtube.com/channel/UCxNKZsgtxVGnzcqjNd7ZFFQ).
+Word Indonesia bagian dari [**Launch Indonesia**](https://www.youtube.com/c/launchid).
