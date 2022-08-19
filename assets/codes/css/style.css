@@ -1,44 +1,48 @@
 @import url("https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css");
 
 * {
-	box-sizing: border-box;
+	box-sizing: border-box
 }
 
 body {
 	font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", sans-serif;
 	margin: 0;
 	padding: 0;
+	background-color: #fff
 }
 
 a {
-	text-decoration: none;
-	color: #fff;
+	text-decoration: none
 }
 
 img {
 	width: 100%;
 	height: auto;
-	padding: 1rem;
+	padding: 1rem
 }
 
 #main {
-	height: 65vh;
-	background-color: #fff;
-	color: #1d1d1f;
+	height: 70vh;
+	color: #242424
 }
 
 #social {
-	height: 20vh;
-	background-color: #fff;
-	color: #1d1d1f;
+	height: 15vh;
+	color: #242424
 }
 
 #copyright {
 	height: 15vh;
-	background-color: #185abd;
-	color: #fff;
+	color: #575760;
 	margin: auto;
 	text-align: center;
+	border-top: 1px solid;
+	border-color: #dee4ee;
+	font-size: .875rem
+}
+
+#copyright a {
+	color: #575760
 }
 
 .flex {
@@ -46,27 +50,27 @@ img {
 	flex-direction: column;
 	align-content: center;
 	align-items: center;
-	justify-content: center;
+	justify-content: center
 }
 
 .child {
-	max-width: 50%;
+	max-width: 50%
 }
 
 .fas,
 .fab {
-	font-size: 1.5rem;
+	font-size: 1.25rem;
 	padding: 0.5rem;
-	color: #1d1d1f80;
+	color: #24242480
 }
 
 .fas:hover,
 .fab:hover {
-	color: #1d1d1f;
+	color: #242424
 }
 
 @media (max-width: 768px) {
 	.child {
-		max-width: 80%;
+		max-width: 80%
 	}
 }
