@@ -1,8 +1,8 @@
 # Word Indonesia
 
-**#1 Tutorial Belajar Microsoft Word Bahasa Indonesia**
+**Word Indonesia - Tutorial Belajar Microsoft Word**
 
-Situs web Word Indonesia, membahas panduan lengkap program aplikasi pengolah kata Microsoft Word mulai dari dasar (basic) sampai mahir (advanced).
+Panduan lengkap membahas program aplikasi pengolah kata Microsoft Word mulai dari dasar (basic) sampai lanjutan (advanced).
 
 Kunjungi situs Word Indonesia di alamat [wordindonesia.id](https://wordindonesia.id) atau ikuti akun media sosial kami berikut.
 
