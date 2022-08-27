@@ -4,7 +4,7 @@
 
 Panduan lengkap membahas program aplikasi pengolah kata Microsoft Word mulai dari dasar (basic) sampai lanjutan (advanced).
 
-Kunjungi situs Word Indonesia di alamat [wordindonesia.id](https://wordindonesia.id) atau ikuti akun media sosial kami berikut.
+Kunjungi situs Word Indonesia di alamat [wordindonesia.com](https://wordindonesia.com) atau ikuti akun media sosial kami berikut.
 
 - [Facebook](https://www.facebook.com/wordidn)
 - [Twitter](https://twitter.com/wordidn)
