@@ -1,6 +1,6 @@
 # Word Indonesia
 
-**Word Indonesia - Tutorial Belajar Microsoft Word**
+**#1 Tutorial Belajar Microsoft Word Bahasa Indonesia**
 
 Panduan lengkap membahas program aplikasi pengolah kata Microsoft Word mulai dari dasar (basic) sampai lanjutan (advanced).
 
